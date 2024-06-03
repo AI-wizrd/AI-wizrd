@@ -2,7 +2,6 @@
 - 👀 I’m interested in AGI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Various projects
-- 
 - ⚡ Fun fact: The Earth is Round 🔵
 
 <!---
